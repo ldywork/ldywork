@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: tk.mybatis:mapper-extrea:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-extrea/unknown/mapper-extrea-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-extrea/unknown/mapper-extrea-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/tk/mybatis/mapper-extrea/unknown/mapper-extrea-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
